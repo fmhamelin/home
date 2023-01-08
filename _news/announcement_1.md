@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-01-16
 inline: true
 ---
 
-A simple inline announcement.
+Welcome to [Israël Tankam Chedjou](https://www.plantsci.cam.ac.uk/staff/dr-israel-tankam-chedjou) who is starting a two-year postdoc with us!

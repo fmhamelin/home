@@ -1,31 +1,34 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Congratulations to Pauline Clin for a great PhD thesis defense!
+date: 2022-12-16
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Congratulations to **Pauline Clin** for a great PhD thesis defense!
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+**Title.** Modelling epidemics dynamics with immune priming in cultivar mixtures
 
-#### Hipster list
+**Absract.** Allowing growers to get free from pesticide use and preserving cultivated genetic resources while limiting the emergence of new diseases is one of the aims of the ongoing agroecological transition. To these ends, cultivar mixtures are an effective and more sustainable solution than pure stands of resistant cultivars, but a lack of understanding persists about how they work. Plant immunity and more specifically immune priming is sometimes mentioned to explain the observed efficiency
+of mixtures, but its mode of action on epidemics is still poorly known. I thus developed epidemiological models to identify the effects of priming on the effectiveness of mixtures. These models evidence that priming is critical to explain the observed effectiveness of cultivar mixtures. In a mixture of susceptible and resistant cultivars, priming decreases disease prevalence compared to a pure stand of the resistant host. In a mixture of resistant cultivars, priming also reduces the number or resistance genes needed to maintain disease prevalence below an acceptable threshold. In addition,
+the models make it possible to evaluate in what proportions cultivars should be mixed to optimize mixture efficiency and increase the durability of the resistances used. The variety to be mixed in the greatest proportion is the one that is the least costly for the pathogen to break. These novel theoretical contributions, sometimes counter intuitive
+but explainable ecologically, highlight how individual immunity scales up at the population level, and encourage future research to best exploit priming in plant protection strategies.
+
+###### Thesis Defense Comittee
+
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Sylvain Gandon</li>
+    <li>Samuel Soubeyrand</li>
+    <li>Virginie Ravigné</li>
+    <li>Pauline Ezanno</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
 ***
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Pauline's doctoral dissertation should soon be online. In the meantime, here is the opening quote:
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+> Single-crop farming does not take advantage of the principles by which nature works ; it is agriculture as an engineer might conceive it to be. Nature has introduced great variety into landscape, but man has displayed a passion for simplifying it.
+> 
+> —Rachel Carson - Silent Spring - 1962
