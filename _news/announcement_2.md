@@ -16,13 +16,14 @@ of mixtures, but its mode of action on epidemics is still poorly known. I thus d
 the models make it possible to evaluate in what proportions cultivars should be mixed to optimize mixture efficiency and increase the durability of the resistances used. The variety to be mixed in the greatest proportion is the one that is the least costly for the pathogen to break. These novel theoretical contributions, sometimes counter intuitive
 but explainable ecologically, highlight how individual immunity scales up at the population level, and encourage future research to best exploit priming in plant protection strategies.
 
-###### Thesis Defense Comittee
+###### Thesis defense comittee:
 
 <ul>
+    <li>Pauline Ezanno</li>    
     <li>Sylvain Gandon</li>
-    <li>Samuel Soubeyrand</li>
+    <li>Yannick Outreman</li>
     <li>Virginie Ravigné</li>
-    <li>Pauline Ezanno</li>
+    <li>Samuel Soubeyrand</li>
 </ul>
 
 ***
