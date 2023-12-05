@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-09-01
+date: 2022-12-16
 inline: true
 ---
 
-Welcome to [Hugo Martin](https://hmartin.perso.math.cnrs.fr/) who is starting a two-year postdoc with us!
+Congratulations to [Pauline Clin](https://scholar.google.com/citations?user=6-YCcTUAAAAJ&hl=fr&oi=ao) for a great PhD thesis defense!

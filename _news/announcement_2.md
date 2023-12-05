@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-16
+date: 2023-01-16
 inline: true
 ---
 
-Congratulations to [Pauline Clin](https://scholar.google.com/citations?user=6-YCcTUAAAAJ&hl=fr&oi=ao) or a great PhD thesis defense!
+Welcome to [Israël Tankam Chedjou](https://scholar.google.com/citations?user=odW3dLoAAAAJ&hl=fr&oi=ao) who is starting a two-year postdoc with us!
