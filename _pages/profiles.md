@@ -1,7 +1,7 @@
 ---
 layout: people
 title: people
-
+permalink: /people/
 subtitle: members of the lab or group
 nav: true
 nav_order: 2
@@ -17,5 +17,5 @@ profile2:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   blabla: In 1933, while he was visiting the United States, Adolf Hitler came to power in Germany. Horrified by the Nazi "war of extermination" against his fellow Jews,[12] Einstein decided to remain in the US, and was granted American citizenship in 1940.[13] On the eve of World War II, he endorsed a letter to President Franklin D. Roosevelt alerting him to the potential German nuclear weapons program and recommending that the US begin similar research. Einstein supported the Allies but generally viewed the idea of nuclear weapons with great dismay
-  
+
 ---
