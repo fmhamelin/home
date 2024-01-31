@@ -4,6 +4,7 @@ permalink: /talks/
 title: talks
 description: A list of presentations I have given
 nav: true
+nav_order: 4
 ---
 
 <!--- {% increment my_row %} --->
