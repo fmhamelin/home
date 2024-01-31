@@ -11,7 +11,7 @@ profile:
   address: >
     <p>L'Institut Agro</p> 
     <p>Ecology Department</p>
-    <p>35042 Rennes, France</p>
+    <p>Rennes, France</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
