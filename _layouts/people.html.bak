@@ -73,7 +73,7 @@ layout: default
 		
 		<article>
           {% if page.profile3 -%}
-          <div class="profile float-{%- if page.profile3.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <div class="profile float-{%- if page.profile2.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile3.image %}
               {%- assign profile_image_path = page.profile3.image | prepend: 'assets/img/' -%}
 
