@@ -13,6 +13,34 @@ layout: default
 
 		<hr />
 		
+		<article>
+          {% if page.profile0 -%}
+          <div class="profile float-{%- if page.profile0.align == 'center' -%}center{%- else -%}right{%- endif -%}">
+            {%- if page.profile0.image %}
+              {%- assign profile_image_path = page.profile1.image | prepend: 'assets/img/' -%}
+
+              {% if page.profile0.image_circular %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+              {% else %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+              {% endif %}
+
+              {% include figure.html 
+              path=profile_image_path 
+              class=profile_image_class
+              alt=page.profile0.image -%}
+            {% endif -%}
+          </div>
+          {%- endif %}
+
+          <div class="clearfix">
+            {{ page.profile0.blabla }}
+          </div>
+
+        <hr />
+		
+        </article>
+		
         <article>
           {% if page.profile1 -%}
           <div class="profile float-{%- if page.profile1.align == 'left' -%}left{%- else -%}right{%- endif -%}">
@@ -73,7 +101,7 @@ layout: default
 		
 		<article>
           {% if page.profile3 -%}
-          <div class="profile float-{%- if page.profile2.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <div class="profile float-{%- if page.profile3.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile3.image %}
               {%- assign profile_image_path = page.profile3.image | prepend: 'assets/img/' -%}
 
@@ -93,6 +121,34 @@ layout: default
 
           <div class="clearfix">
             {{ page.profile3.blabla }}
+          </div>
+
+        </article>
+		
+		<hr />
+		
+				<article>
+          {% if page.profile4 -%}
+          <div class="profile float-{%- if page.profile4.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+            {%- if page.profile4.image %}
+              {%- assign profile_image_path = page.profile4.image | prepend: 'assets/img/' -%}
+
+              {% if page.profile.image_circular %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+              {% else %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+              {% endif %}
+
+              {% include figure.html 
+              path=profile_image_path 
+              class=profile_image_class
+              alt=page.profile4.image -%}
+            {% endif -%}
+          </div>
+          {%- endif %}
+
+          <div class="clearfix">
+            {{ page.profile4.blabla }}
           </div>
 
         </article>
