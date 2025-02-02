@@ -252,7 +252,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Hamelin]
-  first_name: [Frédéric, Frédéric M, FM, Frédéric M.]
+  first_name: [Frédéric, Frédéric M, FM]
 
   style: apa
   locale: en
