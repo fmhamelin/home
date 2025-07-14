@@ -6,7 +6,7 @@ subtitle: Mathematical Ecologist and Plant Disease Epidemiologist.
 
 profile:
   align: right
-  image: fred.jpg
+  image: fred.png
   image_circular: false # crops the image to make it circular
 
 
