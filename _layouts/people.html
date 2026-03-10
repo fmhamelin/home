@@ -97,6 +97,10 @@ layout: default
 		
 		<hr />
 		
+				<big><b>Former Lab Members</b></big>		
+		
+		<hr />
+		
 		</article>
 		
 		<article>
@@ -127,9 +131,6 @@ layout: default
 		
 		<hr />
 		
-		<big><b>Former Lab Members</b></big>		
-		
-		<hr />
 		
 				<article>
           {% if page.profile4 -%}
@@ -181,6 +182,34 @@ layout: default
 
           <div class="clearfix">
             {{ page.profile5.blabla }}
+          </div>
+
+        </article>
+		
+		<hr />
+		
+						<article>
+          {% if page.profile6 -%}
+          <div class="profile float-{%- if page.profile6.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+            {%- if page.profile6.image %}
+              {%- assign profile_image_path = page.profile6.image | prepend: 'assets/img/' -%}
+
+              {% if page.profile.image_circular %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+              {% else %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+              {% endif %}
+
+              {% include figure.html 
+              path=profile_image_path 
+              class=profile_image_class
+              alt=page.profile6.image -%}
+            {% endif -%}
+          </div>
+          {%- endif %}
+
+          <div class="clearfix">
+            {{ page.profile6.blabla }}
           </div>
 
         </article>
