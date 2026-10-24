@@ -1,3 +1,20 @@
+# Lab members (underlined in other lab publications list)
+"Tankam Chedjou":
+  - firstname: ["I.", "Israël"]
+    lab_member: true
+
+"de Meijere":
+  - firstname: ["G.", "Gauthier"]
+    lab_member: true
+
+"Martin":
+  - firstname: ["H.", "Hugo"]
+    lab_member: true
+
+"Fotso":
+  - firstname: ["Y. F.", "Yannick Fouedjio"]
+    lab_member: true
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
