@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 
 profile0:
-  align: left
+  align: right
   image: trio.jpg
   image_circular: false # crops the image to make it circular
   blabla: Some of us at Saint-Jacut-de-La-Mer, one hour away from Rennes
