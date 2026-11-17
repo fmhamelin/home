@@ -94,29 +94,23 @@ layout: default
           </div>
 
         </article>
-		
+
 		<hr />
-		
-				<big><b>Former Lab Members</b></big>		
-		
-		<hr />
-		
-		</article>
-		
-		<article>
+
+				<article>
           {% if page.profile3 -%}
           <div class="profile float-{%- if page.profile3.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile3.image %}
               {%- assign profile_image_path = page.profile3.image | prepend: 'assets/img/' -%}
 
-              {% if page.profile.image_circular %}
+              {% if page.profile3.image_circular %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
               {% else %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
+              {% include figure.html
+              path=profile_image_path
               class=profile_image_class
               alt=page.profile3.image -%}
             {% endif -%}
@@ -128,11 +122,16 @@ layout: default
           </div>
 
         </article>
-		
+
 		<hr />
-		
-		
-				<article>
+
+				<big><b>Former Lab Members</b></big>
+
+		<hr />
+
+		</article>
+
+		<article>
           {% if page.profile4 -%}
           <div class="profile float-{%- if page.profile4.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile4.image %}
@@ -144,8 +143,8 @@ layout: default
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
+              {% include figure.html
+              path=profile_image_path
               class=profile_image_class
               alt=page.profile4.image -%}
             {% endif -%}
@@ -160,6 +159,7 @@ layout: default
 		
 		<hr />
 		
+		
 				<article>
           {% if page.profile5 -%}
           <div class="profile float-{%- if page.profile5.align == 'left' -%}left{%- else -%}right{%- endif -%}">
@@ -172,8 +172,8 @@ layout: default
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
+              {% include figure.html
+              path=profile_image_path
               class=profile_image_class
               alt=page.profile5.image -%}
             {% endif -%}
@@ -185,10 +185,10 @@ layout: default
           </div>
 
         </article>
-		
+
 		<hr />
-		
-						<article>
+
+				<article>
           {% if page.profile6 -%}
           <div class="profile float-{%- if page.profile6.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile6.image %}
@@ -200,8 +200,8 @@ layout: default
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
+              {% include figure.html
+              path=profile_image_path
               class=profile_image_class
               alt=page.profile6.image -%}
             {% endif -%}
@@ -213,7 +213,35 @@ layout: default
           </div>
 
         </article>
-		
+
+		<hr />
+
+						<article>
+          {% if page.profile7 -%}
+          <div class="profile float-{%- if page.profile7.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+            {%- if page.profile7.image %}
+              {%- assign profile_image_path = page.profile7.image | prepend: 'assets/img/' -%}
+
+              {% if page.profile.image_circular %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+              {% else %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+              {% endif %}
+
+              {% include figure.html
+              path=profile_image_path
+              class=profile_image_class
+              alt=page.profile7.image -%}
+            {% endif -%}
+          </div>
+          {%- endif %}
+
+          <div class="clearfix">
+            {{ page.profile7.blabla }}
+          </div>
+
+        </article>
+
 		<hr />
 
 </div>
