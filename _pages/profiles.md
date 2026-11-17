@@ -13,20 +13,20 @@ profile0:
   image_circular: false # crops the image to make it circular
   blabla: Some of us at Saint-Jacut-de-La-Mer, one hour away from Rennes
   
-profile1:
+profile2:
   align: right
   image: martin.jpg
   image_circular: false # crops the image to make it circular
   blabla: <b>Martin</b> Guillemet joined the team as a post-doctoral researcher at Institut Agro Rennes-Angers in early 2026. His research here focuses on the evolution of pathogens in structured populations coupled with a dynamic behaviour of control measures. <br><br>After a master’s degree at Ecole Normale Supérieure de Lyon, Martin completed his PhD in Evolutionary Epidemiology in 2023 at the Centre d’Ecologie Fonctionnelle et Evolutive (CEFE) in Montpellier. He then held post-doctoral positions at ETH Zürich and the University of Lausanne (UNIL). <br><br>Martin’s research has been centered around the eco-evo dynamics of pathogens, particularly their traits involved in the interactions with hosts or other microorganisms. He is interested in how these interactions create feedbacks between ecology and evolution, which he explores using a combination of analytical modeling, numerical simulations, and genomic data. <br><br>In the classroom, Martin is dedicated to teaching quantitative skills, such as mathematics and coding, to biology students.
   
-profile2:
+profile3:
   align: left
   image: clement.jpg
   image_circular: false # crops the image to make it circular
   blabla: <b>Clément</b> Monaury is a PhD student in epidemiological modeling who joined our team in October 2024. He earned a Bachelor's degree in Biology from the University of Paris-Saclay before pursuing the MODE (Modeling in Ecology) Master's program at the University of Rennes, where he developed expertise in statistics, Bayesian modeling, ordinary differential equations, and various other modeling techniques. <br><br>During his first-year master's internship at INRAE in Rennes, he contributed to the development of a hierarchical Bayesian model for predicting grapevine moth populations. This work aimed to provide farmers with a decision-support tool to assess whether field treatment was necessary. For his second-year master's internship, he worked at IGEPP within the Institut Agro Rennes-Angers on a virulence evolution model that incorporated dynamic behaviors, specifically examining how individuals' decisions to wear masks could influence disease dynamics. <br><br>Clément's research interests lie in understanding how human behavior shapes pathogen evolution. His PhD focuses on coupling behavioral and evolutionary epidemiology in both human and plant disease contexts. More broadly, he is also interested in the ecology of epidemiology and exploring alternative modeling approaches. 
 
-profile3:
-  align: right
+profile1:
+  align: left
   image: kassandra.png
   image_circular: false # crops the image to make it circular
   blabla: "<b>Kassandra</b> joined our team in October 2026 as a PhD student at the Institut Agro Rennes-Angers, as part of the EPIDEMIX project, which focuses on epidemiological modelling for disease control in mixed cropping systems.<br><br>Having studied mathematics, she gradually specialised in its applications to biology, particularly epidemiology. She holds a Master's degree in mathematics from the University of Douala, in Cameroon. As part of her Master's programme, she undertook a research placement at the Institut Agro Rennes-Angers, under the supervision of Frédéric Hamelin, Roger Tagne and Yves Fotso. Her work, entitled « Modelling host mixtures to fight against vector borne disease: cassava mosaic disease as a case study », focused on the design and analysis of mathematical models aimed at studying the dynamics of vector-borne diseases in mixtures of susceptible and resistant plant varieties. In particular, she explored the impact of vector preferences on disease dynamics, as well as the influence of these preferences on the composition of variety mixtures.<br><br>Kassandra is interested in crop improvement and protection. She is particularly interested in how mathematical modelling can help identify effective and sustainable disease management strategies and enable a better understanding of host-pathogen interactions in order to address challenges related to agriculture and health. She also wishes to contribute to the development of research at the interface between biology and mathematics."
